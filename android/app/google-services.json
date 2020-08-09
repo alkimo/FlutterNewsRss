@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251737128473",
+    "firebase_url": "https://ellyvate-3b353.firebaseio.com",
+    "project_id": "ellyvate-3b353",
+    "storage_bucket": "ellyvate-3b353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251737128473:android:344262b6f4b3105716b488",
+        "android_client_info": {
+          "package_name": "com.alkimo.ellyvate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251737128473-86ugabnbucrv1stu81k6041j62nc35c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alkimo.ellyvate",
+            "certificate_hash": "1a18af816b87121c026ea2ddc66388e88d24f83e"
+          }
+        },
+        {
+          "client_id": "251737128473-4pvd08hfnipk84opdp7aigvpuo2rofgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dGO8EZhTBLlGzS5n4C9HpRAKKI_XjkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251737128473-4pvd08hfnipk84opdp7aigvpuo2rofgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
