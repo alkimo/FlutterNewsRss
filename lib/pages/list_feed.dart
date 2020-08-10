@@ -32,7 +32,7 @@ class FeedListState extends State<FeedList> {
   static const String loadingMessage = 'Loading Feed...';
   static const String feedLoadErrorMessage = 'Error Loading Feed.';
   static const String feedOpenErrorMessage = 'Error Opening Feed.';
-  static const String placeholderImg = 'assets/images/no_image.png';
+  static const String placeholderImg = 'assets/images/logo.png';
 
   // TODO 7: Create a GlobalKey object to hold our key for the refresh feature.
   // Key for the RefreshIndicator

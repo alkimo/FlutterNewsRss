@@ -10,23 +10,9 @@ class Profile extends StatefulWidget {
 class _ProfileState extends State<Profile> {
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Container(
-        height: 200,
-        width: 200,
-        child: RaisedButton(
-          color: Colors.redAccent,
-          child: Text(
-            "Logout",
-            style: TextStyle(
-              color: Colors.white,
-            ),
-          ),
-          onPressed: () {
-            googleSignIn.signOut();
-          },
-        ),
-      ),
+    return Text(
+      "Profile",
+
     );
   }
 }
