@@ -17,14 +17,7 @@ void main() {
   runApp(new MaterialApp(
     title: 'EllyVate',
     debugShowCheckedModeBanner: false,
-    home: CustomSplash(
-      imagePath: 'assets/images/flutter_icon.png',
-      backGroundColor: Colors.white,
-      animationEffect: 'fade-in',
-      duration: 2500,
-      type: CustomSplashType.StaticDuration,
-      home: Home(),
-    ),
+    home: Home(),
   ));
 }
 
